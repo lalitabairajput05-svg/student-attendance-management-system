@@ -44,6 +44,10 @@ The system provides a menu through which the user can:
 - Python 3.x
 - No external Python libraries are required.
 
+  ## Testing
+
+The program was tested by using its different menu options, such as adding students, marking attendance, viewing attendance, and searching for students. The attendance percentage and different input cases were also checked.
+
 ## Project Setup
 
 ### 1. Download or clone this repository
